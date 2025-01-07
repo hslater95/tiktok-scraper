@@ -6,7 +6,7 @@ Scrape and download useful information from TikTok.
 
 ## No login or password are required
 
-This is not an official API support and etc. This is just a scraper that is using TikTok Web API to scrape media and related meta information.
+This is not an official API support and etc. This is just a scraper that is using TikTok Web API to scrape media and related meta info.
 
 ---
 
